@@ -28,7 +28,7 @@ This project is an **Obstacle Avoidance Car** built using **Arduino Uno**. The c
 1. Clone the repository:  
    ```sh
    git clone https://github.com/kareem333j/obstacle-avoidance-car.git
-2. Assemble the parts as shown in the picture.
+2. Assemble the parts as shown in the picture except for the oscilloscope.
    ![Car Image](simulation.png)
 
 4. Open the .ino file in Arduino IDE.
