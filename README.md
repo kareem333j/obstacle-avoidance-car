@@ -41,5 +41,5 @@ This project is an **Obstacle Avoidance Car** built using **Arduino Uno**. The c
 
 8. Connect to Bluetooth using a mobile app that supports HC-05.
 
-Run the car and test both:
+Run the car and enjoy.!
 
