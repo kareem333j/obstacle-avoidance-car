@@ -12,7 +12,7 @@
 #define BACKWARD HIGH, LOW, HIGH, LOW
 #define FORWARD LOW, HIGH, LOW, HIGH
 #define RIGHT HIGH, LOW, LOW, HIGH
-#define LEFT LOW, HIGH, HIGH, LOW
+#define LEFT LOW, HIGH, HIGH, LOW 
 #define STOP LOW, LOW, LOW, LOW
 
 const byte motorPins[] = { 13, 12, 11, 10 };
